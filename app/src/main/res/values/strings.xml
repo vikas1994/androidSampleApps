@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GraphViewTutorial</string>
+    <string name="tab_label1">Home</string>
+    <string name="tab_label2">Me</string>
 </resources>
